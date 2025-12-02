@@ -1,4 +1,5 @@
-- This is a hand written digit recognition app. The main framenwork I used to create the CNN is PyTorch.
+- This is a hand written digit recognition app.
+- The main framenwork I used to create the CNN is PyTorch.
 - For the interactive app I used streamlit because its eassy and i don't really want to learn frontend.
 - There is a model I trained which works really good.
 -The dataset itself is very complete and clean, a pretty small CNN performs really good and its easy to get very good result.
